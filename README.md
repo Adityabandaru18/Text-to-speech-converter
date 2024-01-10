@@ -6,4 +6,5 @@ This is a simple web application that allows users to convert text to speech. It
 
 - Convert text to speech using browser-based Text-to-Speech (TTS) capabilities.
 - User-friendly interface with a text input area and control buttons.
+- Select from a variety of available voices to customize your output tone.
 
